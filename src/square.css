@@ -1,0 +1,13 @@
+.Square{
+    width: 100px;
+    height: 100px;
+    border: black 1px solid;
+    background-color: gray;
+}
+
+.SquareOn{
+    width: 100px;
+    height: 100px;
+    border: black 1px solid;
+    background-color: blue;
+}
